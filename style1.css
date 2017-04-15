@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css" type="text/css">
+		<title>
+			Harpreet Kaur
+		</title>
+	</head>
+	<body>
+		<div class ="nav">
+	   <h2> PS <h2/>
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="#about">about</a></li>
+			<li><a href="#skills">MY skill</a></li>
+			<li><a href="#social links">social links</a></li>
+			<li><a href="#contact me">contact</a></li>
+		</ul>
+		</div>
+		<div class="intro">
+			<center><img src="pankaj.jpg" width="25%"/></center> 
+			<h1>Harpreet kaur</h1>
+			<h5>web development and designing</h5>
+		</div>
+		<div class="aboutc" id="aboutc">
+			<div class="about" id="about">
+			<h3>About me</h3>
+			<p>Hello ! everyone my name is pankaj sah</p>
+			</div>
+		</div>
+	<div class="skills" id ="skills">
+			<h3> MY skills</h3>
+			<h3>all i know</h5>
+		<ol>
+		<li>webdevelopment</li>
+			<ul>
+			   <li>HTML</li>
+			   <li>c++</li>
+			</ul>
+		<li>computer coding</li>
+		<ul>
+			<li>c</li>
+			<li>c++</li>
+			<li>java</li>
+		</ul>
+		</ol>
+	</div>
+	<div class="aboutb" id="aboutb">
+	<div class="social links" id="links">
+		<center><h3>social links</h3></center>
+		<center><h5>here i am</h5></center>
+
+		<ol>
+		<center><a href="https://www.facebook.com" target="blank">facebook</a>
+		<a href="https://www.twitter.com" target="blank">twitter</a>
+		<a href="https://www.instagram.com" target="blank">instagram</a>
+		</ol>
+		</center>
+		</div>
+		</div>
+		<div class="qualification" id="qualifucation">
+		<center><h3>my qualification</h3></center>
+		<center>
+		<table border="1">
+			<tr>
+				<th>year</th>
+				<th>qualification</th>
+				<th>university</th>
+				<th>score</th>
+            </tr>
+            <tr>
+				<td>2014-2018</td>
+                <td>btech</td>
+                <td>DIT university</td>
+                <td>9.8</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+			    <td>12</td>
+				<td>cbse</td>
+				<td>90</td>
+			</tr>
+			</table>
+			<div class="contact me" id="contact">
+				<center>
+				<a href="mailto:pankajsah193@gmail.com" target="blank">
+				<h3>to contact me</h3>,<b>send me an email</b></h3></a>
+				<h1>thank you guys</h1>
+            </div>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
